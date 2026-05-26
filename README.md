@@ -1,8 +1,6 @@
 #  Sistema de Irrigação Automática com Arduino Uno R3 Utilizando Água Reaproveitada de Ares-Condicionados e Bebedouros
 
-<p align="center">
-  <img src="imagens/prototipo.jpg" width="500"/>
-</p>
+
 
 ## Sobre o Projeto
 
