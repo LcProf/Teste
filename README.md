@@ -91,37 +91,7 @@ Sensor de Umidade → Arduino Uno R3 → Relé → Bomba de Água → Irrigaçã
 
 ---
 
-# 🖥️ Estrutura do Projeto
-
-```txt
-sistema-irrigacao-arduino/
-│
-├── README.md
-│
-├── codigo/
-│   └── irrigacao_automatica.ino
-│
-├── imagens/
-│   ├── prototipo.jpg
-│   ├── circuito.png
-│   ├── montagem.jpg
-│   └── funcionamento.jpg
-│
-├── videos/
-│   └── demonstracao.mp4
-│
-├── slides/
-│   └── pitch.pdf
-│
-├── documentacao/
-│   └── projeto.pdf
-│
-└── LICENSE
-```
-
----
-
-# ▶️ Como Executar o Projeto
+# Como Executar o Projeto
 
 ## 1. Instale a Arduino IDE
 
@@ -178,27 +148,6 @@ na Arduino IDE.
 
 ---
 
-# Imagens do Projeto
-
-## Protótipo
-
-```txt
-imagens/prototipo.jpg
-```
-
-## Circuito
-
-```txt
-imagens/circuito.png
-```
-
-## Funcionamento
-
-```txt
-imagens/funcionamento.jpg
-```
-
----
 
 #MVP Funcional
 
