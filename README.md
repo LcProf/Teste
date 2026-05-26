@@ -157,12 +157,6 @@ O MVP apresenta:
 - irrigação inteligente;
 - desligamento automático após atingir umidade adequada.
 
-Vídeo demonstrativo:
-
-```txt
-videos/demonstracao.mp4
-```
-
 ---
 
 # Impactos do Projeto
@@ -253,11 +247,6 @@ Programa Do Piauí Para o Mundo 2026
 
 ---
 
-# Licença
-
-Projeto desenvolvido para fins educacionais, tecnológicos e sustentáveis.
-
----
 
 # Referências
 
