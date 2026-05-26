@@ -1,10 +1,10 @@
-# 🌱 Sistema de Irrigação Automática com Arduino Uno R3 Utilizando Água Reaproveitada de Ares-Condicionados e Bebedouros
+#  Sistema de Irrigação Automática com Arduino Uno R3 Utilizando Água Reaproveitada de Ares-Condicionados e Bebedouros
 
 <p align="center">
   <img src="imagens/prototipo.jpg" width="500"/>
 </p>
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de um sistema automatizado de irrigação utilizando Arduino Uno R3, sensor de umidade do solo, módulo relé e bomba de água para automatizar a irrigação de hortas escolares.
 
@@ -14,7 +14,7 @@ O sistema monitora continuamente a umidade do solo e realiza a irrigação apena
 
 ---
 
-# 🎯 Problema
+# Problema
 
 Grande parte da água proveniente de aparelhos de ar-condicionado e do desperdício dos bebedouros escolares é descartada diariamente.
 
@@ -28,7 +28,7 @@ Diante disso, surgiu a necessidade de desenvolver uma solução automatizada, ac
 
 ---
 
-# 💡 Solução Desenvolvida
+# Solução Desenvolvida
 
 O sistema utiliza um sensor de umidade do solo conectado ao Arduino Uno R3 para monitorar continuamente as condições do solo.
 
@@ -42,7 +42,7 @@ Quando o sensor identifica que o solo está seco:
 
 ---
 
-# ⚙️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Arduino Uno R3
 - Arduino IDE
@@ -57,7 +57,7 @@ Quando o sensor identifica que o solo está seco:
 
 ---
 
-# 🔌 Componentes Utilizados
+# Componentes Utilizados
 
 | Componente | Quantidade |
 |---|---|
@@ -73,7 +73,7 @@ Quando o sensor identifica que o solo está seco:
 
 ---
 
-# 🧠 Funcionamento do Sistema
+# Funcionamento do Sistema
 
 ## Fluxo de Funcionamento
 
@@ -169,7 +169,7 @@ na Arduino IDE.
 
 ---
 
-# 🔌 Ligações do Circuito
+# Ligações do Circuito
 
 | Componente | Ligação |
 |---|---|
@@ -180,7 +180,7 @@ na Arduino IDE.
 
 ---
 
-# 📷 Imagens do Projeto
+# Imagens do Projeto
 
 ## Protótipo
 
@@ -202,7 +202,7 @@ imagens/funcionamento.jpg
 
 ---
 
-# 📹 MVP Funcional
+#MVP Funcional
 
 O MVP apresenta:
 - monitoramento automático da umidade;
@@ -218,7 +218,7 @@ videos/demonstracao.mp4
 
 ---
 
-# 🌍 Impactos do Projeto
+# Impactos do Projeto
 
 ## Sustentabilidade
 - Reaproveitamento de água;
@@ -237,7 +237,7 @@ videos/demonstracao.mp4
 
 ---
 
-# 🚀 Diferenciais
+# Diferenciais
 
 - Utilização de água reaproveitada;
 - Baixo custo;
@@ -247,7 +247,7 @@ videos/demonstracao.mp4
 
 ---
 
-# 📈 Melhorias Futuras
+# Melhorias Futuras
 
 - Integração com IoT;
 - Monitoramento remoto;
@@ -259,7 +259,7 @@ videos/demonstracao.mp4
 
 ---
 
-# 🧪 Testes Realizados
+# Testes Realizados
 
 Foram realizados testes para:
 - leitura do sensor de umidade;
@@ -270,7 +270,7 @@ Foram realizados testes para:
 
 ---
 
-# 📚 Conhecimentos Aplicados
+# Conhecimentos Aplicados
 
 O projeto envolveu conhecimentos em:
 - programação;
@@ -282,7 +282,7 @@ O projeto envolveu conhecimentos em:
 
 ---
 
-# 👨‍💻 Equipe
+# Equipe
 
 ## CETI São João Batista
 
@@ -298,7 +298,7 @@ O projeto envolveu conhecimentos em:
 
 ---
 
-# 🏫 Instituição
+# Instituição
 
 CETI São João Batista  
 3ª GRE — São João da Fronteira  
@@ -306,13 +306,13 @@ Programa Do Piauí Para o Mundo 2026
 
 ---
 
-# 📄 Licença
+# Licença
 
 Projeto desenvolvido para fins educacionais, tecnológicos e sustentáveis.
 
 ---
 
-# 📖 Referências
+# Referências
 
 - Instituto Trata Brasil
 - Ministério do Meio Ambiente
@@ -323,7 +323,7 @@ Projeto desenvolvido para fins educacionais, tecnológicos e sustentáveis.
 
 ---
 
-# ⭐ Considerações Finais
+# Considerações Finais
 
 O projeto demonstra como a tecnologia pode ser utilizada para promover sustentabilidade, automação e conscientização ambiental dentro do ambiente escolar.
 
